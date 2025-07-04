@@ -25,12 +25,12 @@ _<sub>AKA "Technologies I Break on a Daily Basis"</sub>_
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)             | 🔥🔥🔥🔥    | _My spirit animal (if snakes could disappoint their parents)_      |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript) | 🔥🔥🔥      | _Because I'm a masochist who enjoys `undefined is not a function`_ |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript) | 🔥🔥🔥      | _JavaScript's therapy session - still broken, but with types_      |
-| ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)                         | 🔥🔥        | _Faster than my ability to understand why it's called "Go"_        |
+| ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)                         | 🔥🔥🔥🔥    | _Faster than my ability to understand why it's called "Go"_        |
 | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)                   | 🔥🔥        | _Write once, debug everywhere, cry eternally_                      |
 | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)                  | 🔥          | _For when I want to question my life choices_                      |
 | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)                  | 🔥🔥        | _Microsoft's attempt at making developers less miserable (failed)_ |
 | ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)                            | 🔥          | _Making statistics lie prettier since 1993_                        |
-| ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab)             | 🔥          | _$5000 calculator that judges your financial decisions_            |
+| ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab)             | 🔥🔥🔥🔥    | _$5000 calculator that judges your financial decisions_            |
 | ![Shell](https://img.shields.io/badge/Shell-239120?style=for-the-badge&logo=gnu-bash)             | 🔥🔥🔥      | _`rm -rf /` enthusiast (kidding... mostly)_                        |
 
 </details>
@@ -59,9 +59,9 @@ _<sub>AKA "Technologies I Break on a Daily Basis"</sub>_
 
 | Tool                                                                                                          | Chaos Level | What It Actually Does                                  |
 | ------------------------------------------------------------------------------------------------------------- | ----------- | ------------------------------------------------------ |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)                         | 🔥🔥🔥      | _"It works on my container" - Famous last words_       |
-| ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)             | 🔥🔥🔥🔥🔥  | _Orchestrating chaos like a drunk conductor_           |
-| ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)                | 🔥🔥🔥🔥    | _Infrastructure as Code as Confusion as Therapy Bills_ |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)                         | 🔥🔥🔥🔥🔥  | _"It works on my container" - Famous last words_       |
+| ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)             | 🔥🔥🔥      | _Orchestrating chaos like a drunk conductor_           |
+| ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)                | 🔥🔥        | _Infrastructure as Code as Confusion as Therapy Bills_ |
 | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)                                  | 🔥🔥        | _`git commit -m "please work this time"` specialist_   |
 | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions) | 🔥🔥🔥      | _Automated disappointment delivery system_             |
 
@@ -74,8 +74,8 @@ _<sub>AKA "Technologies I Break on a Daily Basis"</sub>_
 
 | Provider                                                                                     | Bill Shock | Honest Review                                                   |
 | -------------------------------------------------------------------------------------------- | ---------- | --------------------------------------------------------------- |
+| ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure) | 💸💸💸💸💸 | _Microsoft's attempt to make Office 365 bills look reasonable_  |
 | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)          | 💸💸💸💸   | _Amazon's personal money printer disguised as "cloud services"_ |
-| ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure) | 💸💸💸     | _Microsoft's attempt to make Office 365 bills look reasonable_  |
 | ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud)        | 💸💸       | _Google's side hustle while they kill your favorite products_   |
 
 </details>
@@ -143,7 +143,7 @@ _<sub>Live updates from the trenches of software development</sub>_
 
 ```bash
 $ whoami
-Professional-code-breaker-with-a-fancy-title
+Professional-code-breaker
 
 $ pwd
 /home/royyan/existential-crisis/debugging-hell
@@ -193,7 +193,6 @@ _<sub>Scientifically accurate representation of my work day</sub>_
 
 ### 🏆 Personal Achievements
 
-- ✅ Successfully broke production on a Friday afternoon
 - ✅ Wrote code that only I can't understand
 - ✅ Mastered the art of "it works on my machine"
 - ✅ Can create infinite loops in any language
