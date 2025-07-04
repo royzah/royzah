@@ -75,20 +75,6 @@ _Other random stuff I pretend to know:_
 
 ---
 
-## 📊 My GitHub Stats
-
-#### Warning: May contain traces of productivity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=royzah&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <em>Commits: 90% "fix typo", 9% "this should work", 1% actual features</em>
-</p>
-
----
-
 ## 🎯 Current Status
 
 - 🔭 Working on something that definitely won't work in production
