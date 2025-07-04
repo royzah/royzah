@@ -15,8 +15,6 @@
 
 ## 🛠️ My Arsenal of Digital Destruction
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=royzah)](https://github.com/anuraghazra/github-readme-stats)
-
 _<sub>AKA "Technologies I Break on a Daily Basis"</sub>_
 
 <details>
