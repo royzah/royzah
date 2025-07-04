@@ -13,18 +13,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- Main stats (includes private & internal commits) -->
-  [![Royyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=royzah&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/royzah)
-  
-  <!-- Language breakdown -->
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=royzah&layout=compact&count_private=true&theme=radical)](https://github.com/royzah)
-</p>
-
----
-
 ## 🛠️ My Arsenal of Digital Destruction
 
 _<sub>AKA "Technologies I Break on a Daily Basis"</sub>_
