@@ -137,6 +137,25 @@ def my_ml_knowledge():
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/royzah">
+    <img
+      src="https://github-readme-stats-zeta-lovat-95.vercel.app/api?username=royzah&show_icons=true&count_private=true&include_all_commits=true&theme=radical"
+      alt="Royyan's GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/royzah">
+    <img
+      src="https://github-readme-stats-zeta-lovat-95.vercel.app/api/top-langs?username=royzah&layout=compact&count_private=true&theme=radical"
+      alt="Royyan's Top Languages"
+    />
+  </a>
+</p>
+
+---
+
 ## 🎯 Current Status
 
 _<sub>Live updates from the trenches of software development</sub>_
