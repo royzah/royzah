@@ -26,6 +26,56 @@ _<sub>AKA "Technologies I Break on a Daily Basis"</sub>_
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript) | 🔥🔥🔥      | _Because I'm a masochist who enjoys `undefined is not a function`_ |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript) | 🔥🔥🔥      | _JavaScript's therapy session - still broken, but with types_      |
 | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)                         | 🔥🔥🔥🔥    | _Faster than my ability to understand why it's called "Go"_        |
+
+### 🦀 BREAKING NEWS: NEW CHALLENGER APPROACHES! 🦀
+<div align="center">
+  
+```rust
+// ⚠️ CAUTION: Rustacean in training ⚠️
+async fn my_rust_journey() -> Result<Sanity, Box<dyn Error>> {
+    loop {
+        match learn_rust().await? {
+            Knowledge::BorrowChecker => panic!("cannot borrow `brain` as mutable"),
+            Knowledge::Lifetimes => println!("'static lifetime... unlike my motivation"),
+            Knowledge::AsyncAwait => {
+                // TODO: Figure out why this compiles but doesn't work
+                // TODO 2: Why does tokio need 47 dependencies?
+                // TODO 3: Send help
+                tokio::time::sleep(Duration::from_secs(∞)).await;
+            }
+            _ => unreachable!("This is Rust, everything is reachable and will panic")
+        }
+    }
+}
+```
+
+| ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=orange) | 🦀🔥🔥🔥 | **_Fighting the borrow checker since 2024_** |
+| --- | --- | --- |
+| **Current Status:** | | _"Pretty okay" (translation: can compile "Hello World" 3/10 times)_ |
+| **Async Proficiency:** | 🌪️💀 | _`.await`ing for my sanity to return... still pending..._ |
+
+<img src="https://img.shields.io/badge/⚡_NEW_SKILL_UNLOCKED-Rust_Pain_Tolerance-orange?style=for-the-badge&logo=rust&logoColor=white&labelColor=black" alt="New Skill"/>
+
+**🎭 The Five Stages of Rust Development:**
+```
+1. Denial:     "How hard can memory safety be?"
+2. Anger:      "WHY WON'T YOU LET ME BORROW THIS?!"
+3. Bargaining: "Please compiler, just this once..."
+4. Depression: "Maybe I should go back to Python..."
+5. Acceptance: "The compiler was right all along 😔"
+   └─> Currently stuck between stages 2-4 in an infinite loop
+```
+
+**📊 Rust Learning Metrics:**
+- Compiler errors per line of code: **∞**
+- Times googled "rust async tutorial": **247**
+- Times actually understood async: **0**
+- `unwrap()` calls that definitely won't panic: **All of them** _(narrator: they all panic)_
+
+</div>
+
+---
+
 | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)                   | 🔥🔥        | _Write once, debug everywhere, cry eternally_                      |
 | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)                  | 🔥          | _For when I want to question my life choices_                      |
 | ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)                  | 🔥🔥        | _Microsoft's attempt at making developers less miserable (failed)_ |
@@ -40,7 +90,7 @@ _<sub>AKA "Technologies I Break on a Daily Basis"</sub>_
 
 | Database                                                                                          | Pain Level | Honest Description                                                      |
 | ------------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------- |
-| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)                    | 😭😭😭     | _`SELECT _ FROM problems WHERE solution IS NULL AND deadline < NOW()`\* |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)                    | 😭😭😭     | _`SELECT * FROM problems WHERE solution IS NULL AND deadline < NOW()`_ |
 | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql) | 😭😭       | _The elephant that never forgets... especially your mistakes_           |
 | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)          | 😭😭😭     | _NoSQL? More like NoSleep, NoSanity, NoHope_                            |
 | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)                | 😭         | _Faster than my impostor syndrome kicking in_                           |
@@ -161,12 +211,20 @@ Changes not staged for commit:
   - sanity.txt (deleted)
   - work-life-balance.md (corrupted)
   - sleep-schedule.json (missing)
+
+$ cargo build
+   Compiling life v0.1.0 (/home/royyan/existence)
+error[E0382]: borrow of moved value: `happiness`
+error[E0597]: `motivation` does not live long enough
+error[E0308]: mismatched types: expected `Success`, found `()` 
+error: aborting due to 999 previous errors
 ```
 
 - 🔭 **Currently working on:** Something that definitely won't work in production (but might crash spectacularly)
-- 🌱 **Learning:** How to center a div (Day 2,847 of attempts - still failing magnificently)
-- ⚡ **Fun fact:** I've googled "how to exit vim" more times than I've successfully exited vim (yup, it is every single time)
-- 💬 **Languages I'm fluent in:** Sarcasm, Stack Overflow, and Imposter Syndrome
+- 🌱 **Learning:** ~~How to center a div~~ How to satisfy the Rust compiler (Day 127 - the compiler is never satisfied)
+- ⚡ **Fun fact:** I've googled "rust async explained" more times than I've successfully used `.await` correctly
+- 💬 **Languages I'm fluent in:** Sarcasm, Stack Overflow, and ~~Imposter Syndrome~~ Rust Compiler Errors
+- 🦀 **New Achievement Unlocked:** Can now read Rust compiler errors without crying (mostly)
 
 ---
 
@@ -183,7 +241,7 @@ _<sub>Scientifically accurate representation of my work day</sub>_
        │      │     ☕       ☕ ← "Just one more commit"
        │      │    ☕         ☕ ← "Tomorrow's problem"
        │      │   ☕           ☕
-       │      │  ☕             ☕
+       │      │  ☕             ☕ ← "Why Rust, why?"
        │      │ ☕               ☕ ← Acceptance
        │      │☕                 ☕
        └──────┼───────────────────────▶
@@ -196,7 +254,9 @@ _<sub>Scientifically accurate representation of my work day</sub>_
 - ✅ Wrote code that only I can't understand
 - ✅ Mastered the art of "it works on my machine"
 - ✅ Can create infinite loops in any language
-- ✅ Expert at turning simple tasks into complex problems (thank for it, i got my PhD)
+- ✅ Expert at turning simple tasks into complex problems (thanks for it, I got my PhD)
+- ✅ **NEW:** Successfully angered the Rust compiler in 12 different ways with a single line of code
+- ❌ Understanding Rust async/await (ETA: heat death of universe)
 - ❌ Work-life balance (still in beta)
 
 ---
@@ -217,26 +277,31 @@ _<sub>For professional disappointment and technical disasters</sub>_
 
 ### 💭 Philosophical Code Comment of the Day
 
-```javascript
+```rust
 // I have no idea why this works, but it does.
-// If you change this code, it will break.
-// If you don't change this code, it will still break.
+// If you change this code, the borrow checker will haunt your dreams.
+// If you don't change this code, it will still break in the next Rust update.
 // Good luck, future me.
+// 
+// UPDATE: It doesn't work anymore. I don't know what changed.
+// UPDATE 2: Added .clone() everywhere. It works now but I feel dirty.
 ```
 
 ---
 
-> _"Any fool can write code that a computer can understand. Good programmers write code that humans can understand... I am neither."_  
-> — Me, probably (definitely)
+> _"Any fool can write code that a computer can understand. Good programmers write code that humans can understand... Rust programmers write code that makes the compiler happy, understanding is optional."_  
+> — Me, definitely (while crying over lifetime annotations)
 
 ---
 
-### 🎪 The Three Stages of Debugging
+### 🎪 The ~~Three~~ Five Stages of Debugging
 
 ```
 Stage 1: "That can't happen."
 Stage 2: "That doesn't happen on my machine."
 Stage 3: "That shouldn't happen."
+Stage 4: "Why does the borrow checker hate me?"
+Stage 5: "Oh wait, the compiler was right... again... 😔"
 Bonus Stage: "Why is it working now?!"
 ```
 
@@ -263,9 +328,13 @@ _People who accidentally stumbled into my digital disaster zone_
      \                /
       '.            .'
         '-.........-'
+        
+   🦀 Rust Edition 🦀
+   Now with 40% more 
+   memory safety!
 ```
 
-_You're awesome for reading this far!_
+_You're awesome for reading this far! May your code compile on the first try (it won't)._
 
 </details>
 
