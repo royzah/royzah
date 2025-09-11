@@ -431,7 +431,7 @@ Bonus Stage (Rust edition): "The borrow checker is gaslighting me"
 
 ---
 
-### 🦀 The Rust Developer's Prayer
+### 🦀 The Morning Prayer
 
 ```rust
 Our Ferris who art in memory,
