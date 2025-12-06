@@ -18,10 +18,8 @@
 
 I write code. Sometimes it works. When it doesn't, I consult Stack Overflow. I've googled "how to exit vim" more times than I've successfully exited vim.
 
-Currently fighting the Rust borrow checker while async routines haunt my dreams. Send help. Or coffee. Preferably both.
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 </p>
 
 ---
@@ -32,7 +30,7 @@ Currently fighting the Rust borrow checker while async routines haunt my dreams.
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 </p>
 
-**Languages:** Python (spirit animal), Go, Rust (it's complicated), TypeScript, JavaScript, Java, C#, Shell
+**Languages:** Python (spirit animal), Go, Rust, TypeScript, JavaScript, Java, C#, Shell
 
 **Databases:** PostgreSQL, MongoDB, Redis, SQL — `SELECT * FROM problems WHERE solution IS NULL`
 
@@ -51,7 +49,7 @@ Currently fighting the Rust borrow checker while async routines haunt my dreams.
 ## Stats
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-efa2e723-c381-4679-885a-50ca84579d9e.gif" width="100">
 </p>
 
 <p align="center">
@@ -74,14 +72,12 @@ Currently fighting the Rust borrow checker while async routines haunt my dreams.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=royzah&theme=tokyonight" alt="Profile Summary" />
 </p>
 
-> **Note:** Most of my commits live in private company repos where the *real* disasters happen. Think of my public profile as the trailer; the full horror movie is behind enterprise firewalls.
-
 ---
 
 ## Current Status
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
 </p>
 
 ```bash
@@ -95,24 +91,21 @@ $ git status
 Changes not staged for commit:
   - sanity.txt (deleted)
   - work-life-balance.md (corrupted)
-  - understanding-rust-async.rs (will never exist)
 ```
 
 - **Working on:** Something that definitely won't work in production
-- **Learning:** Why Rust's async runtime hates me personally
-- **Rust status:** `Box<Pin<Arc<Mutex<Confusion>>>>`
+- **Learning:** How to mass-search "center a div", "exit vim", "how to debug"
 
 ---
 
 ## Achievements
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216654116-d34f0e46-51c0-473f-a766-b3a521cd29e8.gif" width="200">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 </p>
 
 - Mastered "it works on my machine"
 - Can create infinite loops in any language
-- Successfully angered the Rust borrow checker 1000+ times
 - Expert at turning simple tasks into complex problems (got a PhD doing this)
 - Work-life balance (still in beta)
 
@@ -126,32 +119,38 @@ Changes not staged for commit:
 4. "Why is it working now?!"
 5. "Ship it before it realizes it's broken"
 
-**Bonus (Rust edition):** "The borrow checker is gaslighting me"
-
 ---
 
 ## Connect
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="100">
 </p>
 
 <p align="center">
-  <a href="mailto:royyan.zahir@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  royyan.zahir@gmail.com
 </p>
 
 ---
 
-```javascript
-// I have no idea why this works, but it does.
-// If you change this code, it will break.
-// If you don't change this code, it will still break.
-// 
-// UPDATE: Past me is an idiot
-// UPDATE 2: Current me is also an idiot
+```python
+# I have no idea why this works, but it does.
+# If you change this code, it will break.
+# If you don't change this code, it will still break.
+# 
+# UPDATE: Past me is an idiot
+# UPDATE 2: Current me is also an idiot
 ```
+
+---
+
+<p align="center">
+  <em>"Man is sometimes extraordinarily, passionately, in love with suffering."</em>
+  <br>
+  <strong>— Fyodor Dostoevsky</strong>
+  <br><br>
+  <sub>He was clearly a software engineer.</sub>
+</p>
 
 ---
 
