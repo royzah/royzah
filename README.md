@@ -59,11 +59,11 @@ I write code. Sometimes it works. When it doesn't, I consult Stack Overflow. I'v
 </p>
 
 <p align="center">
-  <img src="https://readmestat-git-master-royzahs-projects.vercel.app/api?username=royzah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://readmestat-git-master-royzahs-projects.vercel.app/api?username=royzah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&v=2" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://readmestat-git-master-royzahs-projects.vercel.app/api/top-langs/?username=royzah&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img src="https://readmestat-git-master-royzahs-projects.vercel.app/api/top-langs/?username=royzah&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&v=2" alt="Top Languages" />
 </p>
 
 <p align="center">
