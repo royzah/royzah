@@ -36,19 +36,31 @@ I write code. Sometimes it works. When it doesn't, I consult Stack Overflow. I'v
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7571-4f21-b72d-51f7e8a3e3f3.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4a0-4e7e-a9d2-cca53a71e9b6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257450-36a6bade-6fc3-49e4-8f41-e0c381e50d0e.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257456-3f3a59a2-c198-4689-9f6d-8e1c7d27db24.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212280831-f8a4addb-88d0-4523-8aef-ce3fb2e90e7c.gif" width="100">
+</p>
+
 **Languages:** Python, Go, Rust, TypeScript, JavaScript, Java, C++, C#, R, MATLAB, Shell
 
-**Databases:** PostgreSQL, MongoDB, Redis, SQL — `SELECT * FROM problems WHERE solution IS NULL`
+**Databases:** PostgreSQL, MongoDB, Redis, MySQL, SQLite, Elasticsearch
 
-**DevOps:** Docker, Kubernetes, Terraform, GitHub Actions — orchestrating chaos like a drunk conductor
+**DevOps:** Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI, Jenkins — orchestrating chaos like a drunk conductor
 
 **Cloud:** Azure, AWS, GCP — where company credit cards go to die
 
 **Frontend:** React, Next.js, Vue, Angular, Tailwind — Day 2,847 of trying to center a div
 
-**Backend:** Node.js, Django, .NET, Express, RabbitMQ
+**Backend:** Node.js, Django, Flask, FastAPI, .NET, Express, RabbitMQ, Kafka
 
-**ML:** TensorFlow, PyTorch, scikit-learn — teaching computers to be as confused as me
+**ML:** TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, Jupyter — teaching computers to be as confused as me
+
+**OS:** NixOS — I have accumulated knowledge that is absolutely not transferable to any other job or project. Send help.
 
 ---
 
@@ -88,7 +100,7 @@ Changes not staged for commit:
 ```
 
 - **Working on:** Something that definitely won't work in production
-- **Learning:** How to mass-search "center a div", "exit vim", "how to debug"
+- **Learning:** Why my NixOS config is 3000 lines and I still can't explain what it does
 
 ---
 
@@ -98,7 +110,7 @@ Changes not staged for commit:
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </p>
 
-- Mastered "it works on my machine"
+- Mastered "it works on my machine" (the machine is NixOS, good luck reproducing)
 - Can create infinite loops in any language
 - Expert at turning simple tasks into complex problems (got a PhD doing this)
 - Work-life balance (still in beta)
