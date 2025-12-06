@@ -27,10 +27,11 @@ I write code. Sometimes it works. When it doesn't, I consult Stack Overflow. I'v
 ## Tech Stack
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 </p>
 
-**Languages:** Python (spirit animal), Go, Rust, TypeScript, JavaScript, Java, C#, Shell
+**Languages:** Python, Go, Rust, TypeScript, JavaScript, Java, C++, C#, R, MATLAB, Shell
 
 **Databases:** PostgreSQL, MongoDB, Redis, SQL — `SELECT * FROM problems WHERE solution IS NULL`
 
@@ -38,9 +39,9 @@ I write code. Sometimes it works. When it doesn't, I consult Stack Overflow. I'v
 
 **Cloud:** Azure, AWS, GCP — where company credit cards go to die
 
-**Frontend:** React, Next.js, Vue, Tailwind — Day 2,847 of trying to center a div
+**Frontend:** React, Next.js, Vue, Angular, Tailwind — Day 2,847 of trying to center a div
 
-**Backend:** Node.js, Django, .NET, Express
+**Backend:** Node.js, Django, .NET, Express, RabbitMQ
 
 **ML:** TensorFlow, PyTorch, scikit-learn — teaching computers to be as confused as me
 
@@ -52,12 +53,13 @@ I write code. Sometimes it works. When it doesn't, I consult Stack Overflow. I'v
   <img src="https://user-images.githubusercontent.com/74038190/212284087-efa2e723-c381-4679-885a-50ca84579d9e.gif" width="100">
 </p>
 
+<!-- If stats don't load, deploy your own: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=royzah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=royzah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=royzah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=royzah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -65,7 +67,7 @@ I write code. Sometimes it works. When it doesn't, I consult Stack Overflow. I'v
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royzah&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=royzah&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -101,7 +103,7 @@ Changes not staged for commit:
 ## Achievements
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 </p>
 
 - Mastered "it works on my machine"
