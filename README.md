@@ -1,16 +1,17 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150"/>
-</p>
+<!-- markdownlint-disable MD033 -->
+# Hey, I'm Royyan
 
-<h1 align="center">Hey, I'm Royyan</h1>
+## Professional Bug Creator & Coffee-to-Code Converter
 
-<h3 align="center">Professional Bug Creator & Coffee-to-Code Converter</h3>
+### Turning caffeine into questionable code since 2009
 
-<p align="center"><em>Turning caffeine into questionable code since 2009</em></p>
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150" alt="Waving Hand"/>
+</div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Header Banner">
+</div>
 
 ---
 
@@ -18,33 +19,33 @@
 
 I write code. Sometimes it works. When it doesn't, I consult Stack Overflow. I've googled "how to exit vim" more times than I've successfully exited vim.
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" alt="Coding Animation">
+</div>
 
 ---
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" alt="GitHub">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="Git">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" alt="CSS">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="HTML">
+  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100" alt="Python">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" alt="C++">
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100" alt="Nginx">
+</div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7571-4f21-b72d-51f7e8a3e3f3.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4a0-4e7e-a9d2-cca53a71e9b6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257450-36a6bade-6fc3-49e4-8f41-e0c381e50d0e.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257456-3f3a59a2-c198-4689-9f6d-8e1c7d27db24.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212280831-f8a4addb-88d0-4523-8aef-ce3fb2e90e7c.gif" width="100">
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="C">
+  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7571-4f21-b72d-51f7e8a3e3f3.gif" width="100" alt="Java">
+  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4a0-4e7e-a9d2-cca53a71e9b6.gif" width="100" alt="JavaScript">
+  <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="100" alt="Linux">
+  <img src="https://user-images.githubusercontent.com/74038190/212257450-36a6bade-6fc3-49e4-8f41-e0c381e50d0e.gif" width="100" alt="VSCode">
+  <img src="https://user-images.githubusercontent.com/74038190/212257456-3f3a59a2-c198-4689-9f6d-8e1c7d27db24.gif" width="100" alt="Vim">
+  <img src="https://user-images.githubusercontent.com/74038190/212280831-f8a4addb-88d0-4523-8aef-ce3fb2e90e7c.gif" width="100" alt="MySQL">
+</div>
 
 **Languages:** Python, Go, Rust, TypeScript, JavaScript, Java, C++, C#, R, MATLAB, Shell
 
@@ -66,25 +67,25 @@ I write code. Sometimes it works. When it doesn't, I consult Stack Overflow. I'v
 
 ## Stats
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-efa2e723-c381-4679-885a-50ca84579d9e.gif" width="100">
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-efa2e723-c381-4679-885a-50ca84579d9e.gif" width="100" alt="Stats Icon">
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=royzah&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=royzah&theme=tokyonight" alt="Profile Summary" />
-</p>
+</div>
 
 ---
 
 ## Current Status
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500" alt="Current Status">
+</div>
 
 ```bash
 $ pwd
@@ -106,9 +107,9 @@ Changes not staged for commit:
 
 ## Achievements
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Achievements">
+</div>
 
 - Mastered "it works on my machine" (the machine is NixOS, good luck reproducing)
 - Can create infinite loops in any language
@@ -129,13 +130,13 @@ Changes not staged for commit:
 
 ## Connect
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="100">
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="100" alt="Connect">
+</div>
 
-<p align="center">
+<div align="center">
   royyan.zahir@gmail.com
-</p>
+</div>
 
 ---
 
@@ -161,7 +162,7 @@ Changes not staged for commit:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=royzah&color=blueviolet&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=royzah&color=blueviolet&style=flat-square" alt="Profile Views Counter"/>
   <br>
   <em>people who accidentally stumbled into my digital disaster zone</em>
 </p>
