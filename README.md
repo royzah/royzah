@@ -28,23 +28,31 @@ I write code. Sometimes it works. When it doesn't, I consult Stack Overflow. I'v
 ## Tech Stack
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100" alt="Python">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="JavaScript">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100" alt="Github">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100" alt="VSCode">
-  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100" alt="Bpurple?">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" alt="Node">
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100" alt="Git">
+  <img src="https://skillicons.dev/icons?i=python,go,rust,ts,js,java,cpp,cs,r,matlab,bash&perline=11" alt="Languages" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" alt="React">
-  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7571-4f21-b72d-51f7e8a3e3f3.gif" width="100" alt="Broken">
-  <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4a0-4e7e-a9d2-cca53a71e9b6.gif" width="100" alt="Broken">
-  <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="100" alt="Angular">
-  <img src="https://user-images.githubusercontent.com/74038190/212257450-36a6bade-6fc3-49e4-8f41-e0c381e50d0e.gif" width="100" alt="Broken">
-  <img src="https://user-images.githubusercontent.com/74038190/212257456-3f3a59a2-c198-4689-9f6d-8e1c7d27db24.gif" width="100" alt="Broken">
-  <img src="https://user-images.githubusercontent.com/74038190/212280831-f8a4addb-88d0-4523-8aef-ce3fb2e90e7c.gif" width="100" alt="Broken">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,nodejs,django,flask,fastapi,dotnet,express&perline=11" alt="Frameworks" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,sqlite,elasticsearch,rabbitmq,kafka&perline=8" alt="Databases & Messaging" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,gitlab,jenkins,aws,gcp,azure&perline=9" alt="DevOps & Cloud" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=3" alt="ML" />
+  <br>
+  <sub>teaching computers to be as confused as me</sub>
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nix&perline=1" alt="NixOS" />
+  <br>
+  <sub>I have mass-accumulated mass-untransferable knowledge. Send help.</sub>
 </div>
 
 **Languages:** Python, Go, Rust, TypeScript, JavaScript, Java, C++, C#, R, MATLAB, Shell
