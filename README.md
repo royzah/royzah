@@ -28,48 +28,69 @@ I write code. Sometimes it works. When it doesn't, I consult Stack Overflow. I'v
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,rust,ts,js,java,cpp,cs,r,matlab,bash&perline=11" alt="Languages" />
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,go,rust,ts,js,java,cpp,cs,r,matlab,bash&perline=11" alt="Languages" />
+<br>
+<sub>Python, Go, Rust, TypeScript, JavaScript, Java, C++, C#, R, MATLAB, Shell</sub>
+<br>
+<sub>11 ways to mass-produce bugs multilingually</sub>
+
+---
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind&perline=5" alt="Frontend" />
+<br>
+<sub>React, Next.js, Vue, Angular, Tailwind</sub>
+<br>
+<sub>Day 2,847 of trying to center a div. The div remains uncentered. I remain unhinged.</sub>
+
+---
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,django,flask,fastapi,dotnet,express&perline=6" alt="Backend" />
+<br>
+<sub>Node.js, Django, Flask, FastAPI, .NET, Express</sub>
+<br>
+<sub>Where "it works on my machine" becomes "it works on no machine"</sub>
+
+---
+
+### Databases & Messaging
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,sqlite,elasticsearch,rabbitmq,kafka&perline=8" alt="Databases & Messaging" />
+<br>
+<sub>PostgreSQL, MongoDB, Redis, MySQL, SQLite, Elasticsearch, RabbitMQ, Kafka</sub>
+<br>
+<sub>8 different places to lose your data. Choose wisely.</sub>
+
+---
+
+### DevOps & Cloud
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,gitlab,jenkins,aws,gcp,azure&perline=9" alt="DevOps & Cloud" />
+<br>
+<sub>Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI, Jenkins, AWS, GCP, Azure</sub>
+<br>
+<sub>Orchestrating chaos like a drunk conductor. Also where company credit cards go to die.</sub>
+
+---
+
+### Machine Learning
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=3" alt="ML" />
+<br>
+<sub>TensorFlow, PyTorch, scikit-learn</sub>
+<br>
+<sub>Teaching computers to be as confused as me, but with math</sub>
+
+---
+
+### Operating System
+<img src="https://skillicons.dev/icons?i=nix&perline=1" alt="NixOS" />
+<br>
+<sub>NixOS</sub>
+<br>
+<sub>I have mass-accumulated mass-untransferable knowledge. My config is 3000 lines. I understand 12 of them. Send help.</sub>
+
 </div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,nodejs,django,flask,fastapi,dotnet,express&perline=11" alt="Frameworks" />
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,sqlite,elasticsearch,rabbitmq,kafka&perline=8" alt="Databases & Messaging" />
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,gitlab,jenkins,aws,gcp,azure&perline=9" alt="DevOps & Cloud" />
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=3" alt="ML" />
-  <br>
-  <sub>teaching computers to be as confused as me</sub>
-</div>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nix&perline=1" alt="NixOS" />
-  <br>
-  <sub>I have mass-accumulated mass-untransferable knowledge. Send help.</sub>
-</div>
-
-**Languages:** Python, Go, Rust, TypeScript, JavaScript, Java, C++, C#, R, MATLAB, Shell
-
-**Databases:** PostgreSQL, MongoDB, Redis, MySQL, SQLite, Elasticsearch
-
-**DevOps:** Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI, Jenkins — orchestrating chaos like a drunk conductor
-
-**Cloud:** Azure, AWS, GCP — where company credit cards go to die
-
-**Frontend:** React, Next.js, Vue, Angular, Tailwind — Day 2,847 of trying to center a div
-
-**Backend:** Node.js, Django, Flask, FastAPI, .NET, Express, RabbitMQ, Kafka
-
-**ML:** TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, Jupyter — teaching computers to be as confused as me
-
-**OS:** NixOS — I have accumulated knowledge that is absolutely not transferable to any other job or project. Send help.
 
 ---
 
