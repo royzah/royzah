@@ -20,11 +20,19 @@ Firmware in Singapore, LoRa sensors on the Korean DMZ, power electronics in Hels
 
 ## <img src="https://img.shields.io/badge/-%20-f5c2e7?style=flat-square" height="20"/> What I actually do
 
-**Normal software.** React frontends, Go and FastAPI backends, Postgres, Kubernetes, the whole "it's just a CRUD app" lie. Real-time maps, live video, an OAuth 2.1 server ([OryxID](https://github.com/royzah/OryxID)) because auth is never "just a login page".
+**Normal software.** React frontends, Go and FastAPI backends, Postgres, Kubernetes, the whole "it's just a CRUD app" lie. Real-time maps and live video, because static pages were too relaxing.
 
-**Paranoid networking.** A hybrid post-quantum handshake for [rust-libp2p](https://github.com/royzah/rust-libp2p) and [snow](https://github.com/royzah/snow). The quantum computers aren't here yet, but I like to be emotionally prepared.
+**Hardware, when the software isn't hard enough.** Yocto BSPs, embedded Linux, flight controllers, radios. Regular programming, except the stack trace is a blinking LED.
 
-**Hardware, when the software isn't hard enough.** Embedded Linux, flight controllers, radios. Regular programming, except the stack trace is a blinking LED.
+## <img src="https://img.shields.io/badge/-%20-f9e2af?style=flat-square" height="20"/> Upstream (unpaid, but with code review from strangers)
+
+**[Apache NuttX](https://github.com/apache/nuttx/pulls?q=author%3Aroyzah)** - 30+ PRs, mostly merged. Taught an RTOS that user space can't be trusted: bounded syscalls, process capabilities, no poking kernel memory. Also hardware crypto and RNG on NXP i.MX9 and i.MXRT, Pixhawk 6X-RT board support, and a ChaCha fix because GCC 15 had opinions.
+
+**[Qualcomm Linux](https://github.com/qualcomm-linux/meta-qcom/pulls?q=author%3Aroyzah)** - Made A/B OTA actually work. A partition tool silently dropped the slot flags, and the retry counter sat one bit off. Off-by-one, but in bits. Plus Yocto recipes, TF-A, U-Boot, kernel and OP-TEE bring-up across meta-qcom, qcom-ptool and friends.
+
+**[libp2p](https://github.com/libp2p/rust-libp2p/pulls?q=author%3Aroyzah) and [snow](https://github.com/mcginty/snow/pulls?q=author%3Aroyzah)** - A hybrid post-quantum Noise handshake (X25519 + ML-KEM-768): spec, Rust code, and ML-KEM in the Noise library underneath. Also QUIC unreliable datagrams. The quantum computers aren't here yet, but I like to be emotionally prepared.
+
+**[PX4](https://github.com/PX4/PX4-Autopilot/pulls?q=author%3Aroyzah), [QGroundControl](https://github.com/mavlink/qgroundcontrol/pulls?q=author%3Aroyzah), [OP-TEE](https://github.com/OP-TEE/optee_os/pulls?q=author%3Aroyzah)** - A drone should check whether it's armed by reading one register, not two that disagree. Network Remote ID so the drone can tell the authorities who it is. Deterministic ECDSA, because randomness is great everywhere except your signatures.
 
 ## <img src="https://img.shields.io/badge/-%20-89b4fa?style=flat-square" height="20"/> The stack (sorted by how often it hurts)
 
@@ -48,11 +56,14 @@ Firmware in Singapore, LoRa sensors on the Korean DMZ, power electronics in Hels
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Embedded_Linux-1e1e2e?style=for-the-badge&logo=linux&logoColor=f9e2af"/>
+<img src="https://img.shields.io/badge/Yocto-1e1e2e?style=for-the-badge&logo=linux&logoColor=f9e2af"/>
+<img src="https://img.shields.io/badge/NuttX-1e1e2e?style=for-the-badge&logoColor=f38ba8"/>
+<img src="https://img.shields.io/badge/Qualcomm-1e1e2e?style=for-the-badge&logo=qualcomm&logoColor=89b4fa"/>
+<img src="https://img.shields.io/badge/NXP_i.MX-1e1e2e?style=for-the-badge&logo=nxp&logoColor=f9e2af"/>
 <img src="https://img.shields.io/badge/NVIDIA_Jetson-1e1e2e?style=for-the-badge&logo=nvidia&logoColor=a6e3a1"/>
 <img src="https://img.shields.io/badge/ARM-1e1e2e?style=for-the-badge&logo=arm&logoColor=74c7ec"/>
 
-<sub>For when a bug needs to be harder to reproduce.</sub>
+<sub>A bitbake run is a meditation retreat: start it, go live your life, come back, checksum failed.</sub>
 
 </div>
 
