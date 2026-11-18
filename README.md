@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cba6f7,50:f5c2e7,100:89b4fa&height=200&section=header&text=Royyan%20Zahir&fontSize=60&fontColor=1e1e2e&fontAlignY=38&desc=I%20break%20things%20at%20every%20layer%20of%20the%20stack&descSize=18&descAlignY=60&descAlign=50&animation=fadeIn" width="100%" alt="Royyan Zahir"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cba6f7,50:f5c2e7,100:89b4fa&height=200&section=header&text=royzah&fontSize=60&fontColor=1e1e2e&fontAlignY=38&desc=I%20break%20things%20at%20every%20layer%20of%20the%20stack&descSize=18&descAlignY=60&descAlign=50&animation=fadeIn" width="100%" alt="royzah"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=F5C2E7&center=true&vCenter=true&width=760&lines=Senior+Software+Engineer.+Frontend+to+firmware.;From+the+React+button+to+the+kernel+driver;PhD+in+wireless+control.+Still+fighting+with+wifi.;Post-quantum+crypto%2C+because+normal+paranoia+got+boring;Catppuccin+Mocha+everywhere.+Yes%2C+everywhere." alt="Typing SVG" /></a>
 
@@ -12,7 +12,7 @@
 
 </div>
 
-## <img src="https://img.shields.io/badge/-%20-cba6f7?style=flat-square" height="20"/> Hi, I'm Royyan
+## <img src="https://img.shields.io/badge/-%20-cba6f7?style=flat-square" height="20"/> Hi, I'm royzah
 
 I get pulled in when the bug is "somewhere between the dashboard and the silicon". Usually I wrote both ends. Full-stack, DevOps, embedded. The PhD didn't fix that, it just gave me better words for it.
 
@@ -123,9 +123,6 @@ $ git commit -m "fix: it works now (do not ask why)"
 
 <br><br>
 
-<a href="mailto:royyan.zahir@gmail.com"><img src="https://img.shields.io/badge/royyan.zahir@gmail.com-1e1e2e?style=for-the-badge&logo=gmail&logoColor=f38ba8"/></a>
-<a href="https://www.linkedin.com/in/royyan-zahir-521b3b39b"><img src="https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa"/></a>
-<br><br>
 <img src="https://komarev.com/ghpvc/?username=royzah&color=cba6f7&style=for-the-badge&label=lost+souls+who+wandered+in" alt="Profile views"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89b4fa,50:f5c2e7,100:cba6f7&height=120&section=footer" width="100%" alt="footer"/>
