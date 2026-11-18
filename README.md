@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cba6f7,50:f5c2e7,100:89b4fa&height=200&section=header&text=royzah&fontSize=60&fontColor=1e1e2e&fontAlignY=38&desc=I%20break%20things%20at%20every%20layer%20of%20the%20stack&descSize=18&descAlignY=60&descAlign=50&animation=fadeIn" width="100%" alt="royzah"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cba6f7,50:f5c2e7,100:89b4fa&height=200&section=header&text=Hello%2C%20world%21&fontSize=60&fontColor=1e1e2e&fontAlignY=38&desc=I%20break%20things%20at%20every%20layer%20of%20the%20stack&descSize=18&descAlignY=60&descAlign=50&animation=fadeIn" width="100%" alt="Hello, world!"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=F5C2E7&center=true&vCenter=true&width=760&lines=Senior+Software+Engineer.+Frontend+to+firmware.;From+the+React+button+to+the+kernel+driver;PhD+in+wireless+control.+Still+fighting+with+wifi.;Post-quantum+crypto%2C+because+normal+paranoia+got+boring;Catppuccin+Mocha+everywhere.+Yes%2C+everywhere." alt="Typing SVG" /></a>
 
@@ -12,7 +12,7 @@
 
 </div>
 
-## <img src="https://img.shields.io/badge/-%20-cba6f7?style=flat-square" height="20"/> Hi, I'm royzah
+## <img src="https://img.shields.io/badge/-%20-cba6f7?style=flat-square" height="20"/> A bit about me
 
 I get pulled in when the bug is "somewhere between the dashboard and the silicon". Usually I wrote both ends. Full-stack, DevOps, embedded. The PhD didn't fix that, it just gave me better words for it.
 
@@ -26,13 +26,13 @@ Firmware in Singapore, LoRa sensors on the Korean DMZ, power electronics in Hels
 
 ## <img src="https://img.shields.io/badge/-%20-f9e2af?style=flat-square" height="20"/> Upstream (unpaid, but with code review from strangers)
 
-**[Apache NuttX](https://github.com/apache/nuttx/pulls?q=author%3Aroyzah)** - 30+ PRs, mostly merged. Taught an RTOS that user space can't be trusted: bounded syscalls, process capabilities, no poking kernel memory. Also hardware crypto and RNG on NXP i.MX9 and i.MXRT, Pixhawk 6X-RT board support, and a ChaCha fix because GCC 15 had opinions.
+**[Apache NuttX](https://github.com/apache/nuttx)** - 30+ PRs, mostly merged. Taught an RTOS that user space can't be trusted: bounded syscalls, process capabilities, no poking kernel memory. Also hardware crypto and RNG on NXP i.MX9 and i.MXRT, Pixhawk 6X-RT board support, and a ChaCha fix because GCC 15 had opinions.
 
-**[Qualcomm Linux](https://github.com/qualcomm-linux/meta-qcom/pulls?q=author%3Aroyzah)** - Made A/B OTA actually work. A partition tool silently dropped the slot flags, and the retry counter sat one bit off. Off-by-one, but in bits. Plus Yocto recipes, TF-A, U-Boot, kernel and OP-TEE bring-up across meta-qcom, qcom-ptool and friends.
+**[Qualcomm Linux](https://github.com/qualcomm-linux/meta-qcom)** - Made A/B OTA actually work. A partition tool silently dropped the slot flags, and the retry counter sat one bit off. Off-by-one, but in bits. Plus Yocto recipes, TF-A, U-Boot, kernel and OP-TEE bring-up across meta-qcom, qcom-ptool and friends.
 
-**[libp2p](https://github.com/libp2p/rust-libp2p/pulls?q=author%3Aroyzah) and [snow](https://github.com/mcginty/snow/pulls?q=author%3Aroyzah)** - A hybrid post-quantum Noise handshake (X25519 + ML-KEM-768): spec, Rust code, and ML-KEM in the Noise library underneath. Also QUIC unreliable datagrams. The quantum computers aren't here yet, but I like to be emotionally prepared.
+**[libp2p](https://github.com/libp2p/rust-libp2p) and [snow](https://github.com/mcginty/snow)** - A hybrid post-quantum Noise handshake (X25519 + ML-KEM-768): spec, Rust code, and ML-KEM in the Noise library underneath. Also QUIC unreliable datagrams. The quantum computers aren't here yet, but I like to be emotionally prepared.
 
-**[PX4](https://github.com/PX4/PX4-Autopilot/pulls?q=author%3Aroyzah), [QGroundControl](https://github.com/mavlink/qgroundcontrol/pulls?q=author%3Aroyzah), [OP-TEE](https://github.com/OP-TEE/optee_os/pulls?q=author%3Aroyzah)** - A drone should check whether it's armed by reading one register, not two that disagree. Network Remote ID so the drone can tell the authorities who it is. Deterministic ECDSA, because randomness is great everywhere except your signatures.
+**[PX4](https://github.com/PX4/PX4-Autopilot), [QGroundControl](https://github.com/mavlink/qgroundcontrol), [OP-TEE](https://github.com/OP-TEE/optee_os)** - A drone should check whether it's armed by reading one register, not two that disagree. Network Remote ID so the drone can tell the authorities who it is. Deterministic ECDSA, because randomness is great everywhere except your signatures.
 
 ## <img src="https://img.shields.io/badge/-%20-89b4fa?style=flat-square" height="20"/> The stack (sorted by how often it hurts)
 
@@ -80,7 +80,7 @@ Firmware in Singapore, LoRa sensors on the Korean DMZ, power electronics in Hels
 
 </div>
 
-Nix flakes on Ubuntu: NixOS people think I'm a coward, Ubuntu people think I joined a cult. Both are right. If I could theme my landlord in Catppuccin, I would. [Dotfiles here](https://github.com/royzah/dotfiles).
+Nix flakes on Ubuntu: NixOS people think I'm a coward, Ubuntu people think I joined a cult. Both are right. If I could theme my landlord in Catppuccin, I would.
 
 ## <img src="https://img.shields.io/badge/-%20-a6e3a1?style=flat-square" height="20"/> Current status
 
@@ -107,14 +107,6 @@ $ git commit -m "fix: it works now (do not ask why)"
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=royzah&theme=catppuccin-mocha&hide_border=true" alt="GitHub streak"/>
-
-<sub>Most commits live in private repos. This is the tip of the iceberg.</sub>
-
-</div>
-
-<div align="center">
-
 <em>"Man is sometimes extraordinarily, passionately, in love with suffering."</em>
 <br>
 <strong>-- Fyodor Dostoevsky</strong>
@@ -122,8 +114,6 @@ $ git commit -m "fix: it works now (do not ask why)"
 <sub>He would have loved CSS.</sub>
 
 <br><br>
-
-<img src="https://komarev.com/ghpvc/?username=royzah&color=cba6f7&style=for-the-badge&label=lost+souls+who+wandered+in" alt="Profile views"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89b4fa,50:f5c2e7,100:cba6f7&height=120&section=footer" width="100%" alt="footer"/>
 
